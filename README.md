@@ -4,6 +4,7 @@ Este script em Python utiliza Selenium para automatizar a busca e a navegação 
 
 
 Funcionalidades
+
 Modo Headless: O script pode ser executado tanto com a interface gráfica visível quanto em modo headless (sem interface gráfica), configurável através do uso de options.add_argument('--headless').
 
 Busca e Navegação: O script busca pelo campo de busca na página da Wikipedia sobre Selenium, digita o termo "História" e pressiona Enter para realizar a busca.
